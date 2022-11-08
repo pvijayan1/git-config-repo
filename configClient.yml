@@ -1,2 +1,1 @@
-welcome:
-  message: welcome to config client env from config server 222
+message: welcome to config client env from config server 222
