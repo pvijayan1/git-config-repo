@@ -18,7 +18,7 @@ registration:
     topicAkey5 : topicAval5_configServer_dev
     topicAkey6 : topicAval6_configServer_dev
    topic3:
-    topic3A : topicAval3A_configServer_dev
+    topic3A : topicAval3A_configServer_dev_hhhhhhhhhhhhhhh
     topic3B : topicAval3B_configServer_dev
     topic3C : topicAval3C_configServer_dev
     topic3D : topicAval3D_configServer_dev
