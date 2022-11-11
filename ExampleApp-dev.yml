@@ -1,0 +1,62 @@
+registration:
+ configproperties:
+  properties1:
+   topic1:
+    aaaa : bbbb_configServer_dev
+    topickey1 : topicval1_configServer_dev
+    topickey2 : topicval2_configServer_dev
+    topickey3 : topicval3_configServer_dev
+    topickey4 : topicval4_configServer_dev
+    topickey5 : topicval5_configServer_dev
+    topickey6 : topicval6_configServer_dev
+    topickey7 : topicval7_configServer_dev
+   topic2:
+    topicAkey1 : topicAval1_configServer_dev
+    topicAkey2 : topicAval2_configServer_dev
+    topicAkey3 : topicAval3_configServer_dev
+    topicAkey4 : topicAval4_configServer_dev
+    topicAkey5 : topicAval5_configServer_dev
+    topicAkey6 : topicAval6_configServer_dev
+   topic3:
+    topic3A : topicAval3A_configServer_dev
+    topic3B : topicAval3B_configServer_dev
+    topic3C : topicAval3C_configServer_dev
+    topic3D : topicAval3D_configServer_dev
+    topic3E : topicAval3E_configServer_dev
+    topic3F : topicAval3F_configServer_dev
+   topic4:
+    topic4A : topicAval4A_configServer_dev
+    topic4B : topicAval4B_configServer_dev
+    topic4C : topicAval4C_configServer_dev
+    topic4D : topicAval4D_configServer_dev
+    topic4E : topicAval4E_configServer_dev
+    topic4F : topicAval4F_configServer_dev
+   registration:    
+    supportedPartners: 150,152,153,5939,20064,20072
+    #supportedPartners: [150,152,153,5939,20064,20072]
+    rootPartnerPath: partners/
+  properties2:
+   topic5:    
+    topic5A : topicval5A_configServer_dev
+    topic5B : topicval5B_configServer_dev
+    topic5C : topicval5C_configServer_dev
+    topic5D : topicval5D_configServer_dev
+    topic5E : topicval5E_configServer_dev
+    topic5F : topicval5F_configServer_dev
+    topic5G : topicval5G_configServer_dev
+   topic6:    
+    topic6A : topicval6A_configServer_dev
+    topic6B : topicval6B_configServer_dev
+    topic6C : topicval6C_configServer_dev
+    topic6D : topicval6D_configServer_dev
+    topic6E : topicval6E_configServer_dev
+    topic6F : topicval6F_configServer_dev
+    topic6G : topicval6G_configServer_dev
+   topic7:    
+    topic7A : topicval7A_configServer_dev
+    topic7B : topicval7B_configServer_dev
+    topic7C : topicval7C_configServer_dev
+    topic7D : topicval7D_configServer_dev
+    topic7E : topicval7E_configServer_dev
+    topic7F : topicval7F_configServer_dev
+    topic7G : topicval7G_configServer_dev
