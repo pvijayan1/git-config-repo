@@ -2,7 +2,7 @@ registration:
  configproperties:
   properties1:
    topic1:
-    aaaa : bbbb_configServer_dev_dddddddd
+    aaaa : bbbb_configServer_dev_eeeeeeeeeeee
     topickey1 : topicval1_configServer_dev
     topickey2 : topicval2_configServer_dev
     topickey3 : topicval3_configServer_dev
