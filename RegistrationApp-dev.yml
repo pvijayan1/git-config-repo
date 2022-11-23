@@ -1,0 +1,72 @@
+active:
+  spring.env: dev
+logging:
+  file:   
+    path: /tmp/logs/registration
+  level:
+    #root: INFO
+    com.nbc.news.cnbc.controller: WARN
+registration:
+ configproperties:
+  properties1:
+   topic1:
+    aaaa : bbbb_dev
+    topickey1 : topicval1_dev
+    topickey2 : topicval2_dev
+    topickey3 : topicval3_dev
+    topickey4 : topicval4_dev
+    topickey5 : topicval5_dev
+    topickey6 : topicval6_dev
+    topickey7 : topicval7_dev
+   topic2:
+    topicAkey1 : topicAval1_dev
+    topicAkey2 : topicAval2_dev
+    topicAkey3 : topicAval3_dev
+    topicAkey4 : topicAval4_dev
+    topicAkey5 : topicAval5_dev
+    topicAkey6 : topicAval6_dev
+   topic3:
+    topic3A : topicAval3A_dev
+    topic3B : topicAval3B_dev
+    topic3C : topicAval3C_dev
+    topic3D : topicAval3D_dev
+    topic3E : topicAval3E_dev
+    topic3F : topicAval3F_dev
+   topic4:
+    topic4A : topicAval4A_dev
+    topic4B : topicAval4B_dev
+    topic4C : topicAval4C_dev
+    topic4D : topicAval4D_dev
+    topic4E : topicAval4E_dev
+    topic4F : topicAval4F_dev
+   registration:    
+    supportedPartners: 150,152,153,5939,20064,20072
+    #supportedPartners: [150,152,153,5939,20064,20072]
+    rootPartnerPath: partners/
+  properties2:
+   topic5:    
+    topic5A : topicval5A_dev
+    topic5B : topicval5B_dev
+    topic5C : topicval5C_dev
+    topic5D : topicval5D_dev
+    topic5E : topicval5E_dev
+    topic5F : topicval5F_dev
+    topic5G : topicval5G_dev
+   topic6:    
+    topic6A : topicval6A_dev
+    topic6B : topicval6B_dev
+    topic6C : topicval6C_dev
+    topic6D : topicval6D_dev
+    topic6E : topicval6E_dev
+    topic6F : topicval6F_dev
+    topic6G : topicval6G_dev
+   topic7:    
+    topic7A : topicval7A_dev
+    topic7B : topicval7B_dev
+    topic7C : topicval7C_dev
+    topic7D : topicval7D_dev
+    topic7E : topicval7E_dev
+    topic7F : topicval7F_dev
+    topic7G : topicval7G_dev
+
+ 
