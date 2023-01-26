@@ -10,7 +10,7 @@ registration:
  configproperties:
   properties1:
    topic1:
-    aaaa : bbbb_test
+    aaaa : cccc_test
     topickey1 : topicval1_test
     topickey2 : topicval2_test
     topickey3 : topicval3_test
